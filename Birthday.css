@@ -1,0 +1,37 @@
+.imgbox {
+    margin: 0px 0px 0px 300px;
+    float: left;
+}
+
+h1 {
+    padding: 0px 0px 0px 400px;
+}
+
+p {
+    padding: 0px 0px 0px 425px;
+}
+
+footer {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 50px 170px 0px 800px;
+    padding: 30px;
+}
+
+li {
+    border: 3px solid turquoise;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: gray;
+    color: turquoise;
+}
+
+body {
+    background-color: gray;
+}
