@@ -1,0 +1,59 @@
+#Left_Black_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 0s;
+}
+
+#Middle_Black_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 0.2s;
+}
+
+#Right_Black_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 0.4s;
+}
+
+#Top_Left_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 0.6s;
+}
+
+#Top_Middle_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 1s;
+}
+
+#Top_Right_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 1.4s;
+}
+
+#Bottom_Left_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 0.8s;
+}
+
+#Bottom_Middle_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 1.2s;
+}
+
+#Bottom_Right_White_Arrow {
+    opacity: 0;
+    animation: fadein 2s linear infinite;
+    animation-delay: 1.6s;
+}
+
+@keyframes fadein {
+    0% {opacity: 0}
+    50% {opacity: 0.5}
+    100% {opacity: 1}
+}
