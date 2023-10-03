@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+.p1 {
+    border: solid 2px black;
+    font-size: 21px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.p2 {
+    border: solid 2px black;
+    font-size: 29.5px;
+    margin-bottom: 7px;
+}
+
+.p3 {
+    border: solid 2px black;
+    font-size: 37px;
+}
