@@ -63,3 +63,10 @@ main {
     margin-right: 20px;
     width: 200px;
 }
+
+.floatimage4 {
+    float: left;
+    border: 5px solid gray;
+    margin-right: 20px;
+    width: 125px;
+}
