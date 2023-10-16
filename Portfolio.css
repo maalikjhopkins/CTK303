@@ -1,0 +1,65 @@
+body {
+    background-color: gray;
+}
+
+#wrapper1 {
+    margin: 24px auto;
+    width: 1200px;
+    border: 1px solid black;
+    padding: 24px;
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 24px;
+}
+
+header {
+    grid-column: span 12;
+}
+
+.floatimage {
+    float: right;
+    border: 5px solid gray;
+    margin-left: 10px;
+    width: 200px;
+}
+
+.specialp {
+    font-size: 25px;
+}
+
+.specialp2 {
+    font-size: 18px;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+}
+
+li {
+    padding: 5px 0px 5px 0px;
+}
+
+main {
+    grid-column: span 12;
+}
+
+.floatimage2 {
+    float: left;
+    border: 5px solid gray;
+    margin-right: 20px;
+    width: 150px;
+}
+
+.ul2 {
+    list-style: none;
+    font-size: 20px;
+}
+
+.floatimage3 {
+    float: left;
+    border: 5px solid gray;
+    margin-right: 20px;
+    width: 200px;
+}
